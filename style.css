@@ -1,0 +1,28 @@
+
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 24
+}/* para icone de copiar senha*/
+
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: lightgray;
+}
+
+.main{
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    border-radius: 25px;
+    background-color: rgb(88, 88, 238);
+    width: 300px;
+    height: 250px ;
+}
+
